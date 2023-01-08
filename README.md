@@ -6,4 +6,5 @@ We all know Youtube. The N1 video streaming platform. In there, we've spent our 
 We're looking here for an app that we can install in our machine, and be able to search for and download Youtube videos, without going to sketchy websites full of ads.
 
 Please, only use this app for personal use, and DO NOT PUBLISH THESE VIDEOS ONLINE AS IT VIOLATES YOUTUBE TOS
+
 Thank you
